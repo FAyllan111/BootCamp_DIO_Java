@@ -67,7 +67,7 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 
 📁 **Projetos & Desafios:**
 - [API REST Documentada com Swagger](https://github.com/FAyllan111/DIO_api_rest_swagger)
-- [Segurança em APIs com Spring Security](https://github.com/FAyllan111/DIO_pring_security)
+- [Segurança em APIs com Spring Security](https://github.com/FAyllan111/DIO_spring_security)
 - [Publicando API na Nuvem](https://github.com/FAyllan111/DIO_deploy_api_cloud)
 
 ---
