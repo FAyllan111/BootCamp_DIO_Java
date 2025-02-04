@@ -52,7 +52,7 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Trabalhando com Collections e Stream API
 
 📁 **Projetos & Desafios:**
-- [Modelando um iPhone com UML](https://github.com/FAyllan111/DIO_modelando_iphone)
+- [Modelando um iPhone com UML](https://github.com/FAyllan111/DIO_modelando-iphone)
 - [Banco Digital com Java e POO](https://github.com/FAyllan111/DIO_banco_digital)
 - [Jogo Sudoku em Java](https://github.com/FAyllan111/DIO_jogo_sudoku)
 
