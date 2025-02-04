@@ -1,6 +1,6 @@
 # 🚀 Bootcamp Java Cloud Native - Bradesco
 
-![Java Cloud Native](https://www.example.com/java-cloud-native-banner.png)
+![Java Cloud Native](https://assets.dio.me/LYSmNQ8AdhZkZJwJEQ6bvItZJBJ8HDqlrXKhnDgnWbA/f:webp/q:80/w:437/L3RyYWNrcy9jb3Zlci9hMDgxYWY5OS1kMmQ4LTQ5M2EtOTE1Ny0yZWE4MDQ1ZTAzY2MucG5n)
 
 Este repositório contém os projetos e desafios desenvolvidos durante o **Bootcamp Java Cloud Native do Bradesco**. A jornada focou no desenvolvimento **back-end com Java, Spring Boot e microsserviços na nuvem**, além da integração com bancos de dados e segurança de APIs.
 
@@ -121,8 +121,8 @@ Este bootcamp também contou com atividades realizadas durante as aulas para ref
 
 Este repositório será atualizado conforme eu for avançando no bootcamp e concluindo os desafios. Se você também está participando ou quer trocar experiências sobre **Java, Spring Boot e Cloud Computing**, fique à vontade para se conectar comigo! 🚀
 
-📧 **E-mail:** [seuemail@email.com]  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil]  
-🐙 **GitHub:** [github.com/seu-usuario]  
+📧 **E-mail:** [franciscoayllan@gmail.com]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ayllan-silva]  
+🐙 **GitHub:** [https://github.com/FAyllan111)]  
 
 A jornada está apenas começando! 💪🚀 #Java #SpringBoot #CloudComputing #Azure #OpenShift #APIs #BancoDeDados #AI #Bootcamp
