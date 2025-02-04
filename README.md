@@ -39,8 +39,8 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Debugging em Java
 
 📁 **Projetos & Desafios:**
-- [Simulação de Conta Bancária no Terminal](https://github.com/seu-usuario/conta-bancaria-terminal)
-- [Sistema de Validação de Processo Seletivo](https://github.com/seu-usuario/validacao-processo-seletivo)
+- [Simulação de Conta Bancária no Terminal](https://github.com/FAyllan111/DIO_conta_bancaria_terminal)
+- [Sistema de Validação de Processo Seletivo](https://github.com/FAyllan111/DIO_validacao_processo_seletivo)
 
 ---
 
@@ -52,9 +52,9 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Trabalhando com Collections e Stream API
 
 📁 **Projetos & Desafios:**
-- [Modelando um iPhone com UML](https://github.com/seu-usuario/modelando-iphone)
-- [Banco Digital com Java e POO](https://github.com/seu-usuario/banco-digital)
-- [Jogo Sudoku em Java](https://github.com/seu-usuario/jogo-sudoku)
+- [Modelando um iPhone com UML](https://github.com/FAyllan111/DIO_modelando_iphone)
+- [Banco Digital com Java e POO](https://github.com/FAyllan111/DIO_banco_digital)
+- [Jogo Sudoku em Java](https://github.com/FAyllan111/DIO_jogo_sudoku)
 
 ---
 
@@ -66,9 +66,9 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Segurança com Spring Security
 
 📁 **Projetos & Desafios:**
-- [API REST Documentada com Swagger](https://github.com/seu-usuario/api-rest-swagger)
-- [Segurança em APIs com Spring Security](https://github.com/seu-usuario/spring-security)
-- [Publicando API na Nuvem](https://github.com/seu-usuario/deploy-api-cloud)
+- [API REST Documentada com Swagger](https://github.com/FAyllan111/DIO_api_rest_swagger)
+- [Segurança em APIs com Spring Security](https://github.com/FAyllan111/DIO_pring_security)
+- [Publicando API na Nuvem](https://github.com/FAyllan111/DIO_deploy_api_cloud)
 
 ---
 
@@ -80,8 +80,8 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Persistência de dados com JDBC
 
 📁 **Projetos & Desafios:**
-- [Explorando Persistência de Dados com JDBC](https://github.com/seu-usuario/jdbc)
-- [Board de Tarefas com Java e Banco de Dados](https://github.com/seu-usuario/board-tarefas)
+- [Explorando Persistência de Dados com JDBC](https://github.com/FAyllan111/DIO_jdbc)
+- [Board de Tarefas com Java e Banco de Dados](https://github.com/FAyllan111/DIO_board_tarefas)
 
 ---
 
