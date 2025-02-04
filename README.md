@@ -111,6 +111,6 @@ Este repositório será atualizado conforme eu for avançando no bootcamp e conc
 
 📧 **E-mail:** [franciscoayllan@gmail.com]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ayllan-silva]  
-🐙 **GitHub:** [https://github.com/FAyllan111)]  
+🐙 **GitHub:** [https://github.com/FAyllan111]  
 
 A jornada está apenas começando! 💪🚀 #Java #SpringBoot #CloudComputing #Azure #OpenShift #APIs #BancoDeDados #AI #Bootcamp
