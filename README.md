@@ -19,8 +19,7 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - **[Módulo 5 - Integração com Banco de Dados](#módulo-5---integração-com-banco-de-dados)**
 - **[Módulo 6 - Cloud Computing na Azure (Teórico)](#módulo-6---cloud-computing-na-azure-teórico)**
 - **[Módulo 7 - Serviços de Inteligência Artificial na Cloud (Teórico)](#módulo-7---serviços-de-inteligência-artificial-na-cloud-teórico)**
-- **[📎 Repositórios das Atividades das Aulas](#-repositórios-das-atividades-das-aulas)**
-
+  
 ---
 
 ## Módulo 1 - Introdução ao Desenvolvimento Cloud Native
@@ -103,17 +102,6 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - Processamento de Linguagem Natural e Análise de Sentimentos
 - Uso do Azure OpenAI e Cognitive Services
 - Implementação de soluções com IA Generativa e Copilot
-
----
-
-## 📎 Repositórios das Atividades das Aulas
-
-Este bootcamp também contou com atividades realizadas durante as aulas para reforçar o aprendizado. Aqui estão os repositórios com esses exercícios e implementações:
-
-- [Atividades do Módulo 2 - Sintaxe Java](https://github.com/seu-usuario/atividades-sintaxe-java)
-- [Atividades do Módulo 3 - POO e Collections](https://github.com/seu-usuario/atividades-poo-java)
-- [Atividades do Módulo 4 - APIs REST com Spring](https://github.com/seu-usuario/atividades-spring-boot)
-- [Atividades do Módulo 5 - Integração com Banco de Dados](https://github.com/seu-usuario/atividades-banco-dados-java)
 
 ---
 
